@@ -47,4 +47,8 @@ class PortfolioController extends GetxController {
       Get.snackbar('Error', 'Failed to delete portfolio: $e');
     }
   }
+
+
+
+  
 }
