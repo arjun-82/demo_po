@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "353939471043",
+    "project_id": "portfolio-8ac6d",
+    "storage_bucket": "portfolio-8ac6d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353939471043:android:110327a4c94be3de554076",
+        "android_client_info": {
+          "package_name": "com.example.arjun_portfolio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3P5lxbplKHldX1e5JrMdtpPFbwJWrYds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
